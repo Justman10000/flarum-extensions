@@ -19,7 +19,7 @@ php flarum cache:clear
 
 # Extensions
 
-Since it would be too much work to list all extensions, report any extensions that are missing or no longer present as a pull request
+Since it would be too much work to list all extensions, report any extensions that are missing, updated or no longer present as a pull request
 
 # Note
 
