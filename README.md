@@ -1,7 +1,8 @@
 # FlarumExtensions
 
 ## About
-Dieses Repository soll euch mit allen Erweiterungen versorgen, die für Flarum existieren!
+
+This repository aims to provide you with all extensions that exist for Flarum!
 
 ## Usage
 
